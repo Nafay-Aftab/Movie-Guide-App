@@ -41,4 +41,4 @@ To run the project locally:
 This app fetches movie details from OMDb API  https://www.omdbapi.com/
 
 ## Live Demo
-🔗 [View Project](https://musical-kashata-c5ad11.netlify.app/)
+🔗 (https://movie-guide-application-site.netlify.app/)
